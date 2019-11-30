@@ -1,0 +1,54 @@
+body{
+	background-image: url(images/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#vid{
+	margin-left:300px;
+	margin-right:370px;
+}
+#img1{
+	width: 200px;
+	height: 140px;
+	float:left;
+}
+#img2{
+	width: 200px;
+	height: 140px;
+}
+#img3{
+	width: 200px;
+	height: 140px;
+}
+#img4{
+	width: 200px;
+	height: 140px;
+	float: left;
+}
+#img5{
+	width: 200px;
+	height: 140px;
+}
+#img6{
+	width: 200px;
+	height: 140px;
+}
+#img7{
+	width: 200px;
+	height: 140px;
+	float:left;
+}
+#img8{
+	width: 200px;
+	height: 140px;
+}
+#img9{
+	width: 200px;
+	height: 140px;
+}
+#vid2{
+	margin-left:300px;
+	margin-right:370px;
+	background-image: url(images/img33.jpg);
+	background-size: 100%;
+}
